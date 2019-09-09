@@ -11,7 +11,7 @@
   "dependencies": {
     "facebook-chat-api": "^1.6.1",
     "body-parser": "^1.15.1",
-    "express": "~3.2.4",
+    "express": "~3.11.0",
     "morgan": "^1.7.0",
     "request": "^2.72.0"
 }
